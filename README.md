@@ -25,8 +25,5 @@ To run this game on your local machine, follow these steps:
 1. **Clone the repository:**
    https://github.com/ANUPAM-DEY-CSE/Snake_Game_using_Python/
 
-2. **Navigate to the folder:**
-   cd Snake_Game_using_Python
-
-3. **Run the script:**
-   snake_game.py
+2. **Run the script:**
+   Software Development Project ( Snake Game ).py
