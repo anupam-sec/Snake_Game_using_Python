@@ -23,5 +23,10 @@ A classic, interactive Snake Game built with Python and the pygame library. This
 To run this game on your local machine, follow these steps:
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/Snake_Game_using_Python.git](https://github.com/your-username/Snake_Game_using_Python.git)
+   https://github.com/ANUPAM-DEY-CSE/Snake_Game_using_Python/
+
+2. **Navigate to the folder:**
+   cd Snake_Game_using_Python
+
+3. **Run the script:**
+   snake_game.py
