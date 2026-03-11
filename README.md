@@ -23,7 +23,7 @@ A classic, interactive Snake Game built with Python and the pygame library. This
 To run this game on your local machine, follow these steps:
 
 1. **Clone the repository:**
-   https://github.com/ANUPAM-DEY-CSE/Snake_Game_using_Python/
+   https://github.com/anupam-sec/Snake_Game_using_Python/
 
 2. **Run the script:**
    Software Development Project ( Snake Game ).py
